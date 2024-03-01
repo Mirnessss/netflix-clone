@@ -2,6 +2,8 @@ import React from 'react'
 import HeroSection from './HeroSection'
 import Header from './Header'
 import AboutSection from './AboutSection'
+import FaQ from './FaQ'
+import Footer from './Footer'
 
 const LandingPage = () => {
   return (
@@ -9,6 +11,8 @@ const LandingPage = () => {
       <Header />
       <HeroSection />
       <AboutSection />
+      <FaQ />
+      <Footer />
     </div>
   )
 }
