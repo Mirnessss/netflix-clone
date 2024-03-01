@@ -11,7 +11,7 @@ import VideoTV from '../../assets/images/video-tv.mp4'
 const AboutSection = () => {
   return (
     <section>
-        <div className='h-[70dvh] bg-black pt-20 md:mt-10 md:pt-0 flex flex-col lg:flex-row text-center lg:text-left p-4 items-center justify-center gap-2'>
+        <div className='h-[60dvh] bg-black pt-20 md:mt-10 md:pt-0 flex flex-col lg:flex-row text-center lg:text-left p-4 items-center justify-center gap-2'>
         <div className='text-white'>
         <h1 className='text-2xl lg:text-5xl font-extrabold'>Enjoy on your TV</h1>
         <h3 className='lg:text-2xl mt-4'>Watch on Smart TVs, Playstation, Xbox, Chromecast,<br />Apple TV, Bu-ray players, and more.</h3>
